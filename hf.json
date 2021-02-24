@@ -8,7 +8,7 @@
             "mapImageSrc": "https://i.imgur.com/C9dh60o.png",
             "mapLandmarks": [
                 {
-                    "name": "YouTube",
+                    "name": "Mercury",
                     "positionSU": {
                         "x": 9.5,
                         "y": 22,
@@ -22,7 +22,21 @@
                     "imageHref": "https://i.imgur.com/R8GMYxz.png"
                 },
                 {
-                    "name": "Burning Man",
+                    "name": "Venus",
+                    "positionSU": {
+                        "x": 10.5,
+                        "y": 22,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "hexColor": "#c634eb",
+                    "textHexColor": "#000000",
+                    "href": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                    "imageHref": "https://i.imgur.com/R8GMYxz.png"
+                },
+                {
+                    "name": "HF Help Desk",
                     "positionSU": {
                         "x": 20,
                         "y": 20,
@@ -30,7 +44,7 @@
                     },
                     "radiusSU": 2,
                     "hexColor": "#000000",
-                    "href": "https://burningman.org/"
+                    "href": "https://www.highfidelity.com/en/knowledge/get-started"
                 },
                 {
                     "name": "example.com",
