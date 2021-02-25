@@ -22,6 +22,20 @@
                     "imageHref": "https://i.imgur.com/R8GMYxz.png"
                 },
                 {
+                    "name": "Upload Resume - Spot 7",
+                    "positionSU": {
+                        "x": 13.5,
+                        "y": 21.5,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "rotationDegrees": 45,
+                    "hexColor": "#AA0000",
+                    "textHexColor": "#CCCCCC",
+                    "href": "https://docs.google.com/forms/d/e/1FAIpQLSdmOLmxisA3ASHP3PNKYVdYGSv_n-5SziOqSYnxxrQmlnK_DQ/viewform"
+                },
+                {
                     "name": "Venus",
                     "positionSU": {
                         "x": 11.5,
@@ -46,20 +60,7 @@
                     "hexColor": "#000000",
                     "href": "https://www.highfidelity.com/en/knowledge/get-started"
                 },
-                {
-                    "name": "example.com",
-                    "positionSU": {
-                        "x": 20,
-                        "y": 25,
-                        "z": 0
-                    },
-                    "widthSU": 1,
-                    "heightSU": 3,
-                    "rotationDegrees": 45,
-                    "hexColor": "#AA0000",
-                    "textHexColor": "#CCCCCC",
-                    "href": "https://example.com/"
-                },
+         
                 {
                     "name": "Transparent Landmark",
                     "positionSU": {
