@@ -8,10 +8,10 @@
             "mapImageSrc": "https://i.imgur.com/dYQjbzl.png",
             "mapLandmarks": [
                 {
-                    "name": "Mercury",
+                    "name": "Spot 7 YT",
                     "positionSU": {
                         "x": 15,
-                        "y": 22,
+                        "y": 21.5,
                         "z": 0
                     },
                     "widthSU": 1,
