@@ -36,10 +36,10 @@
                     "href": "https://docs.google.com/forms/d/e/1FAIpQLSdmOLmxisA3ASHP3PNKYVdYGSv_n-5SziOqSYnxxrQmlnK_DQ/viewform"
                 },
                 {
-                    "name": "Venus",
+                    "name": "Spot 6 YT",
                     "positionSU": {
-                        "x": 11.5,
-                        "y": 22,
+                        "x": 15,
+                        "y": 26,
                         "z": 0
                     },
                     "widthSU": 1,
@@ -48,6 +48,20 @@
                     "textHexColor": "#000000",
                     "href": "https://www.youtube.com/watch?v=BvXa1n9fjow",
                     "imageHref": "https://i.imgur.com/R8GMYxz.png"
+                },
+                {
+                    "name": "Upload Resume - Spot 6",
+                    "positionSU": {
+                        "x": 15,
+                        "y": 27.5,
+                        "z": 0
+                    },
+                    "widthSU": 1,
+                    "heightSU": 1,
+                    "rotationDegrees": 45,
+                    "hexColor": "#AA0000",
+                    "textHexColor": "#CCCCCC",
+                    "href": "https://docs.google.com/forms/d/e/1FAIpQLSdmOLmxisA3ASHP3PNKYVdYGSv_n-5SziOqSYnxxrQmlnK_DQ/viewform"
                 },
                 {
                     "name": "HF Help Desk",
