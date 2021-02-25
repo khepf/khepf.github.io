@@ -64,13 +64,13 @@
                     "href": "https://docs.google.com/forms/d/e/1FAIpQLSdmOLmxisA3ASHP3PNKYVdYGSv_n-5SziOqSYnxxrQmlnK_DQ/viewform"
                 },
                 {
-                    "name": "HF Help Desk",
+                    "name": "Help Desk",
                     "positionSU": {
-                        "x": 20,
-                        "y": 20,
+                        "x": 21,
+                        "y": 25.5,
                         "z": 0
                     },
-                    "radiusSU": 2,
+                    "radiusSU": 1,
                     "hexColor": "#000000",
                     "href": "https://www.highfidelity.com/en/knowledge/get-started"
                 },
